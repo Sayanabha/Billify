@@ -10,7 +10,6 @@ Billify is an advanced solution designed to convert raw OCR text from receipts a
 - [Architecture](#architecture)
 - [Technical Details](#technical-details)
 - [Business Feasibility](#business-feasibility)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -124,10 +123,6 @@ The system is organized into the following modules:
 ### Risk Analysis
 - **Technical Risks**: Potential challenges in handling diverse receipt formats and maintaining accuracy.
 - **Mitigation Strategies**: Continuous model training and updates, extensive testing on diverse datasets.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 ## License
 
